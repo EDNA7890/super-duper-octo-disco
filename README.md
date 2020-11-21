@@ -1,2 +1,2 @@
 # super-duper-octo-disco
-resilient and ner giving up
+resilient and never giving up
