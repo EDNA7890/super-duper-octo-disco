@@ -1,0 +1,8 @@
+#Beverages
+Tea 40/-
+Mocachino 51/-
+Americano (Black) 55/-
+Cappuccino 51/-
+Espresso (Black) 55/-
+Cold-Coffee (Frappe) 70/-
+
